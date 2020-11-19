@@ -1,4 +1,4 @@
-name = "workers-graphql-server"
+name = "ql"
 type = "webpack"
 zone_id = ""
 account_id = ""
